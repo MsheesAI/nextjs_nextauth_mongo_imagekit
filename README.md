@@ -4,3 +4,5 @@
 ##### MongoDb
 ##### NextAuth
 ##### ImageKit
+
+## This is Structured way for nextjs project
